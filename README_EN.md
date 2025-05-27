@@ -2,7 +2,9 @@
 
 **🌐 Language / Bahasa:** [🇮🇩 Indonesia](README.md) | [🇺🇸 English](README_EN.md)
 
-![QurbanApp Banner](https://via.placeholder.com/1200x400/0d6efd/ffffff?text=QurbanApp+-+Digital+Qurban+Management+System)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zumlabs/image/refs/heads/main/qurban.png" alt="QurbanApp Banner" width="300" />
+</p>
 
 QurbanApp is a web-based qurban meat distribution management system that uses QR Code technology to facilitate digital and transparent processes for data collection, distribution, and tracking of qurban meat collection.
 
@@ -88,16 +90,6 @@ QurbanApp is a web-based qurban meat distribution management system that uses QR
 2. View distribution charts and collection progress
 3. Download recipient data or individual QR codes
 4. Export reports for documentation
-
-## 📱 Screenshots & Preview
-
-| Admin Dashboard | QR Code Scanner | Statistical Reports |
-|-----------------|-----------------|-------------------|
-| ![Dashboard](https://via.placeholder.com/300x200/0d6efd/ffffff?text=Admin+Dashboard) | ![Scanner](https://via.placeholder.com/300x200/28a745/ffffff?text=QR+Scanner) | ![Reports](https://via.placeholder.com/300x200/ffc107/000000?text=Statistical+Reports) |
-
-| Public Page | Mobile View | WhatsApp Integration |
-|-------------|-------------|---------------------|
-| ![Public](https://via.placeholder.com/300x200/6f42c1/ffffff?text=Public+Page) | ![Mobile](https://via.placeholder.com/300x200/e83e8c/ffffff?text=Mobile+View) | ![WhatsApp](https://via.placeholder.com/300x200/25d366/ffffff?text=WhatsApp+API) |
 
 ## 🔒 Security Features
 
@@ -194,11 +186,10 @@ This project demonstrates expertise in:
 
 Interested in project discussion, collaboration, or opportunities?
 
-- 💼 **Portfolio Website**: [YourPortfolio.com](https://yourportfolio.com)
-- 💬 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: developer@yourdomain.com
-- 🐙 **GitHub**: [GitHub Profile](https://github.com/yourusername)
-- 📱 **WhatsApp**: +62-XXX-XXXX-XXXX
+- 💼 **Portfolio Website**: [zumlabs.my.id](https://zumlabs.my.id)
+- 💬 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/qoriakbar)
+- 📧 **Email**: zums.cyber@gmail.com
+- 🐙 **GitHub**: [GitHub Profile](https://github.com/zumlabs)
 
 ### 🤝 Collaboration Opportunities
 - **Freelance Projects**: Available for web development projects
