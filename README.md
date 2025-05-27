@@ -2,7 +2,7 @@
 
 **🌐 Language / Bahasa:** [🇮🇩 Indonesia](README.md) | [🇺🇸 English](README_EN.md)
 
-![QurbanApp Banner](https://via.placeholder.com/1200x400/0d6efd/ffffff?text=QurbanApp+-+Digital+Qurban+Management+System)
+![QurbanApp Banner](https://zumlabs.my.id/uploads/media/qurban_1748388765700.png)
 
 QurbanApp adalah sistem manajemen distribusi daging qurban berbasis web yang menggunakan teknologi QR Code untuk memudahkan proses pendataan, distribusi, dan pelacakan pengambilan daging qurban secara digital dan transparan.
 
@@ -88,16 +88,6 @@ QurbanApp adalah sistem manajemen distribusi daging qurban berbasis web yang men
 2. Lihat grafik distribusi dan progress pengambilan
 3. Download data penerima atau QR code individual
 4. Export laporan untuk dokumentasi
-
-## 📱 Screenshot & Preview
-
-| Dashboard Admin | QR Code Scanner | Laporan Statistik |
-|-----------------|-----------------|-------------------|
-| ![Dashboard](https://via.placeholder.com/300x200/0d6efd/ffffff?text=Dashboard+Admin) | ![Scanner](https://via.placeholder.com/300x200/28a745/ffffff?text=QR+Scanner) | ![Reports](https://via.placeholder.com/300x200/ffc107/000000?text=Laporan+Statistik) |
-
-| Halaman Publik | Mobile View | WhatsApp Integration |
-|----------------|-------------|---------------------|
-| ![Public](https://via.placeholder.com/300x200/6f42c1/ffffff?text=Halaman+Publik) | ![Mobile](https://via.placeholder.com/300x200/e83e8c/ffffff?text=Mobile+View) | ![WhatsApp](https://via.placeholder.com/300x200/25d366/ffffff?text=WhatsApp+API) |
 
 ## 🔒 Fitur Keamanan
 
@@ -194,11 +184,10 @@ Project ini mendemonstrasikan keahlian dalam:
 
 Tertarik untuk diskusi project, kolaborasi, atau opportunities?
 
-- 💼 **Portfolio Website**: [YourPortfolio.com](https://yourportfolio.com)
-- 💬 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 **Email**: developer@yourdomain.com
-- 🐙 **GitHub**: [GitHub Profile](https://github.com/yourusername)
-- 📱 **WhatsApp**: +62-XXX-XXXX-XXXX
+- 💼 **Portfolio Website**: [YourPortfolio.com](https://zumlabs.my.id)
+- 💬 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/qoriakbar)
+- 📧 **Email**: zums.cyber@gmail.com
+- 🐙 **GitHub**: [GitHub Profile](https://github.com/zumlabs)
 
 ### 🤝 Collaboration Opportunities
 - **Freelance Projects**: Available untuk web development projects
