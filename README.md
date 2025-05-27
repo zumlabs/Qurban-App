@@ -2,7 +2,9 @@
 
 **🌐 Language / Bahasa:** [🇮🇩 Indonesia](README.md) | [🇺🇸 English](README_EN.md)
 
-![QurbanApp Banner](https://zumlabs.my.id/uploads/media/qurban_1748388765700.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zumlabs/image/refs/heads/main/qurban.png" alt="QurbanApp Banner" width="300" />
+</p>
 
 QurbanApp adalah sistem manajemen distribusi daging qurban berbasis web yang menggunakan teknologi QR Code untuk memudahkan proses pendataan, distribusi, dan pelacakan pengambilan daging qurban secara digital dan transparan.
 
@@ -184,7 +186,7 @@ Project ini mendemonstrasikan keahlian dalam:
 
 Tertarik untuk diskusi project, kolaborasi, atau opportunities?
 
-- 💼 **Portfolio Website**: [YourPortfolio.com](https://zumlabs.my.id)
+- 💼 **Portfolio Website**: [zumlabs.my.id](https://zumlabs.my.id)
 - 💬 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/qoriakbar)
 - 📧 **Email**: zums.cyber@gmail.com
 - 🐙 **GitHub**: [GitHub Profile](https://github.com/zumlabs)
