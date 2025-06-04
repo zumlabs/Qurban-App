@@ -55,7 +55,7 @@ if (isset($_POST['tambah_penerima'])) {
         ];
 
         // Kirim request ke WhatsApp API
-        $ch = curl_init("https://whatsapp-api-production-024a.up.railway.app/send-message");
+        $ch = curl_init("https://apizumlabs.up.railway.app/send-message");
         curl_setopt($ch, CURLOPT_POST, true);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_HTTPHEADER, ["Content-Type: application/json"]);
